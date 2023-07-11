@@ -1,0 +1,5 @@
+# python sample 
+inport pandas as pd  
+inport matplotlib.pyplot as plt  
+inport japanize_matplotlib 
+print("hello wordl!")
